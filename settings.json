@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ANA_BOT_AFK",
+    "username": "3mkm",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Sadscraft_2.aternos.me",
+    "ip": "sadscraft_2.aternos.me:59834",
     "port": 59834,
     "version": "1.21.1"
   },
